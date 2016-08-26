@@ -7,3 +7,4 @@
 - to kill: `kill -9 PID` (number of running process)
 - to find a file in the current directory by name: find . | grep participant
 - to find a file in the home directory by name: find ~/ | grep participant Read more [here](http://askubuntu.com/questions/144698/find-a-file-using-the-terminal)
+- to change a word in vim (ex: pick to s): `cw`
